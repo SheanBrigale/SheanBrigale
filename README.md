@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @SheanBrigale
-- 👀 I’m interested in novels and games
-- 🌱 I’m currently learning front end developing
-- 📫 You can reach me via email gabriel.shane26@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love gaming
+- 👋 Hi, I’m Shane.
+- 👀 I’m interested in books.
+- 🌱 I’m currently learning front end developing.
+- 📫 You can reach me via email gabriel.shane26@gmail.com.
+- 💼 Looking forward to collaborate with you on some project someday.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I love coding and programming as well as gaming.
 
 <!---
 SheanBrigale/SheanBrigale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
